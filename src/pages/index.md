@@ -1,21 +1,23 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: WELCOME TO THE EVENTS RACCOON
+image: /img/raccoon_hero.jpg
+heading: Great coffee with a conscie
+subheading: A unique Events Management Agency providing a personal, dedicated
+  and bespoke full-service event solution.
 mainpitch:
-  title: Why Kaldi
+  title: We've got what you need!
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    We go above and beyond to understand your requirements and use our vast
+    industry understanding, insight into the market and first-hand experience to
+    bring your event to life.
+
+
+    With a passion to succeed and a desire to stand out in the crowd we bring you personality, confidence, fun and professionalism all hand-delivered in a transparent solution.
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
