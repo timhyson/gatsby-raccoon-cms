@@ -2,7 +2,7 @@
 templateKey: index-page
 title: WELCOME TO THE EVENTS RACCOON
 image: /img/raccoon_hero.jpg
-heading: Great coffee with a conscie
+heading: At Your Service
 subheading: A unique Events Management Agency providing a personal, dedicated
   and bespoke full-service event solution.
 mainpitch:
@@ -14,39 +14,32 @@ mainpitch:
 
 
     With a passion to succeed and a desire to stand out in the crowd we bring you personality, confidence, fun and professionalism all hand-delivered in a transparent solution.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
+description: "[Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  knowledge to anyone.]"
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/screenshot-2020-04-14-at-14.06.39.png
+      text: Venue sourcing, site inspections, food tastings, project meetings, risk
+        assessments, managements of timeframes and key milestones with all
+        suppliers, budget, cashflow and contract management.
+    - image: /img/screenshot-2020-04-14-at-14.07.02.png
+      text: >-
+        Delegate Management
+
+
+        We manage and respond to all questions raised via the registration process, manage attendee numbers to minimise cancellation charges, chase responses from late registrations, provide clear and accurate reporting prior to and during the life of the event.
+    - image: /img/screenshot-2020-04-14-at-14.07.26.png
+      text: We arrange and book flights, ground transportation, airport
+        meet-and-greets, VIP transfers, shuttle services between venues, HSSE
+        regulations with all drivers.
+    - image: /img/screenshot-2020-04-14-at-14.07.40.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        We oversee the logistical running of the event ensuring all suppliers
+        deliver their key objectives, manage rooming lists, offsite venues, risk
+        assessments, complete pre-event briefings as well as post event debriefs
+        and onsite budget reconciliations.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
