@@ -7,10 +7,10 @@ subheading: A unique Events Management Agency providing a personal, dedicated
   and bespoke full-service event solution.
 mainpitch:
   title: We've got what you need!
-  description: >
+  description: >-
     We go above and beyond to understand your requirements and use our vast
     industry understanding, insight into the market and first-hand experience to
-    bring your event to life.
+    bring your event to life. 
 
 
     With a passion to succeed and a desire to stand out in the crowd we bring you personality, confidence, fun and professionalism all hand-delivered in a transparent solution.
