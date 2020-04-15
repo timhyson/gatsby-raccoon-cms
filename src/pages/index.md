@@ -1,10 +1,9 @@
 ---
 templateKey: index-page
-title: WELCOME TO THE EVENTS RACCOON
-image: /img/raccoon_hero.jpg
-heading: At Your Service
+title: Welcome to The Events Raccoon
 subheading: A unique Events Management Agency providing a personal, dedicated
   and bespoke full-service event solution.
+image: /img/raccoon_hero.jpg
 mainpitch:
   title: We've got what you need!
   description: >-
@@ -14,10 +13,8 @@ mainpitch:
 
 
     With a passion to succeed and a desire to stand out in the crowd we bring you personality, confidence, fun and professionalism all hand-delivered in a transparent solution.
-description: "[Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.]"
+heading: "[Heading]"
+description: "[Description]"
 intro:
   blurbs:
     - icon: pencil
@@ -26,8 +23,10 @@ intro:
         suppliers, budget, cashflow and contract management.
       title: Project Management
     - icon: envelope
-      text: >-
-        We manage and respond to all questions raised via the registration process, manage attendee numbers to minimise cancellation charges, chase responses from late registrations, provide clear and accurate reporting prior to and during the life of the event.
+      text: We manage and respond to all questions raised via the registration
+        process, manage attendee numbers to minimise cancellation charges, chase
+        responses from late registrations, provide clear and accurate reporting
+        prior to and during the life of the event.
       title: Delegate Management
     - icon: plane
       text: We arrange and book flights, ground transportation, airport
@@ -41,7 +40,7 @@ intro:
         assessments, complete pre-event briefings as well as post event debriefs
         and onsite budget reconciliations.
       title: Onsite Event Management
-  heading: What we offer
+  heading: At Your Service
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
