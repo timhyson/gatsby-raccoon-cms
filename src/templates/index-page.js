@@ -187,13 +187,6 @@ export const pageQuery = graphql`
                 intro {
                     blurbs {
                         icon
-                        image {
-                            childImageSharp {
-                                fluid(maxWidth: 240, quality: 64) {
-                                    ...GatsbyImageSharpFluid
-                                }
-                            }
-                        }
                         text
                         title
                     }
