@@ -20,26 +20,27 @@ description: "[Kaldi is the ultimate spot for coffee lovers who want to learn
   knowledge to anyone.]"
 intro:
   blurbs:
-    - image: /img/screenshot-2020-04-14-at-14.06.39.png
+    - icon: pencil
       text: Venue sourcing, site inspections, food tastings, project meetings, risk
         assessments, managements of timeframes and key milestones with all
         suppliers, budget, cashflow and contract management.
-    - image: /img/screenshot-2020-04-14-at-14.07.02.png
+      title: Project Management
+    - icon: envelope
       text: >-
-        Delegate Management
-
-
         We manage and respond to all questions raised via the registration process, manage attendee numbers to minimise cancellation charges, chase responses from late registrations, provide clear and accurate reporting prior to and during the life of the event.
-    - image: /img/screenshot-2020-04-14-at-14.07.26.png
+      title: Delegate Management
+    - icon: plane
       text: We arrange and book flights, ground transportation, airport
         meet-and-greets, VIP transfers, shuttle services between venues, HSSE
         regulations with all drivers.
-    - image: /img/screenshot-2020-04-14-at-14.07.40.png
+      title: Transport Management
+    - icon: clock
       text: >
         We oversee the logistical running of the event ensuring all suppliers
         deliver their key objectives, manage rooming lists, offsite venues, risk
         assessments, complete pre-event briefings as well as post event debriefs
         and onsite budget reconciliations.
+      title: Onsite Event Management
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
