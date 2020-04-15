@@ -55,66 +55,66 @@ export const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch
             </div>
         </div>
         <div className="content full-width-image margin-top-0 has-text-centered has-background-primary">
-            <div
-                className="container"
-                style={{
-                    display: "flex",
-                    height: "40vh",
-                    lineHeight: "1",
-                    justifyContent: "space-around",
-                    alignItems: "left",
-                    flexDirection: "column",
-                }}
-            >
-                <h1
-                    className="title has-text-white has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
+            <section className="section">
+                <div
+                    className="container"
                     style={{
+                        display: "flex",
                         lineHeight: "1",
-                        padding: "0.25em",
+                        justifyContent: "space-around",
+                        alignItems: "left",
+                        flexDirection: "column",
                     }}
                 >
-                    {mainpitch.title}
-                </h1>
-                <hr />
-                {mainpitch.description &&
-                    mainpitch.description.split("\n\n").map((paragraph, i) => (
-                        <h6
-                            className="subtitle has-text-white has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
-                            key={i}
-                        >
-                            {paragraph}
-                        </h6>
-                    ))}
-            </div>
+                    <h3
+                        className="title has-text-white has-text-weight-semibold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
+                        style={{
+                            lineHeight: "1",
+                            padding: "0.25em",
+                        }}
+                    >
+                        {mainpitch.title}
+                    </h3>
+                    <hr />
+                    {mainpitch.description &&
+                        mainpitch.description.split("\n\n").map((paragraph, i) => (
+                            <h6
+                                className="subtitle has-text-white has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
+                                key={i}
+                            >
+                                {paragraph}
+                            </h6>
+                        ))}
+                </div>
+            </section>
         </div>
-        <section className="section section--gradient">
+
+        <section className="section">
             <div className="container">
-                <div className="section">
-                    <div className="columns">
-                        <div className="column is-10 is-offset-1">
-                            <div className="content">
-                                <div className="columns">
-                                    <div className="column is-12">
-                                        <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
-                                        <p>{description}</p>
-                                    </div>
-                                </div>
-                                <Features gridItems={intro.blurbs} />
-                                <div className="columns">
-                                    <div className="column is-12 has-text-centered">
-                                        <Link className="btn" to="/products">
-                                            See all products
-                                        </Link>
-                                    </div>
-                                </div>
+                <div className="columns">
+                    <div className="column is-10 is-offset-1">
+                        <div className="content has-text-centered">
+                            <div className="columns">
                                 <div className="column is-12">
-                                    <h3 className="has-text-weight-semibold is-size-2">Latest stories</h3>
-                                    <BlogRoll />
-                                    <div className="column is-12 has-text-centered">
-                                        <Link className="btn" to="/blog">
-                                            Read more
-                                        </Link>
-                                    </div>
+                                    <h3 className="title has-text-weight-semibold is-size-3-mobile is-size-2-tablet is-size-1-widescreen">{intro.heading}</h3>
+                                    <p>{description}</p>
+                                </div>
+                            </div>
+                            <Features gridItems={intro.blurbs} />
+                            <div className="columns">
+                                <div className="column is-12 has-text-centered">
+                                    <Link className="btn" to="/products">
+                                        See all products
+                                    </Link>
+                                </div>
+                            </div>
+                            <div className="column is-12">
+                                <h3 className="has-text-weight-semibold is-size-2">Latest stories</h3>
+                                <BlogRoll />
+                                <div className="column is-12 has-text-centered">
+                                    <Link className="btn" to="/blog">
+                                        Read more
+                                    </Link>
                                 </div>
                             </div>
                         </div>
@@ -186,6 +186,7 @@ export const pageQuery = graphql`
                 description
                 intro {
                     blurbs {
+                        icon
                         image {
                             childImageSharp {
                                 fluid(maxWidth: 240, quality: 64) {
@@ -194,6 +195,7 @@ export const pageQuery = graphql`
                             }
                         }
                         text
+                        title
                     }
                     heading
                     description
