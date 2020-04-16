@@ -6,8 +6,9 @@ import { Link, graphql } from "gatsby"
 import Layout from "../components/Layout"
 import Features from "../components/Features"
 import BlogRoll from "../components/BlogRoll"
+import CaseRoll from "../components/CaseRoll"
 
-export const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch, description, intro }) => (
+export const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch, description, intro, offers }) => (
     <div>
         <Helmet>
             <link href="https://fonts.googleapis.com/css?family=Open+Sans|Raleway" rel="stylesheet" />
@@ -67,7 +68,7 @@ export const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch
                     }}
                 >
                     <h3
-                        className="title has-text-white has-text-weight-semibold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
+                        className="has-text-white has-text-weight-semibold is-size-2"
                         style={{
                             lineHeight: "1",
                             padding: "0.25em",
@@ -96,20 +97,67 @@ export const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch
                         <div className="content has-text-centered">
                             <div className="columns">
                                 <div className="column is-12">
-                                    <h3 className="title has-text-weight-semibold is-size-3-mobile is-size-2-tablet is-size-1-widescreen">{intro.heading}</h3>
+                                    <h3 className="has-text-weight-semibold is-size-2">{intro.heading}</h3>
+                                    <hr className="bg-primary" />
                                     <p>{description}</p>
                                 </div>
                             </div>
                             <Features gridItems={intro.blurbs} />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        {/* <div className="columns">
+            <div className="column is-12 has-text-centered">
+                <Link className="btn" to="/products">
+                    See all products
+                </Link>
+            </div>
+        </div> */}
+
+        <section className="section">
+            <div className="container">
+                <div className="columns">
+                    <div className="column is-10 is-offset-1">
+                        <div className="content has-text-centered">
+                            <div className="column is-12">
+                                <h3 className="has-text-weight-semibold is-size-2">See What We Do</h3>
+                                <hr className="bg-primary" />
+                                <CaseRoll />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section className="section">
+            <div className="container">
+                <div className="columns">
+                    <div className="column is-10 is-offset-1">
+                        <div className="content has-text-centered">
                             <div className="columns">
-                                <div className="column is-12 has-text-centered">
-                                    <Link className="btn" to="/products">
-                                        See all products
-                                    </Link>
+                                <div className="column is-12">
+                                    <h3 className="has-text-weight-semibold is-size-2">{offers.heading}</h3>
+                                    <hr className="bg-primary" />
                                 </div>
                             </div>
+                            <Features gridItems={offers.blurbs} />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <section className="section">
+            <div className="container">
+                <div className="columns">
+                    <div className="column is-10 is-offset-1">
+                        <div className="content has-text-centered">
                             <div className="column is-12">
-                                <h3 className="has-text-weight-semibold is-size-2">Latest stories</h3>
                                 <BlogRoll />
                                 <div className="column is-12 has-text-centered">
                                     <Link className="btn" to="/blog">
@@ -135,6 +183,9 @@ IndexPageTemplate.propTypes = {
     intro: PropTypes.shape({
         blurbs: PropTypes.array,
     }),
+    offers: PropTypes.shape({
+        blurbs: PropTypes.array,
+    }),
 }
 
 const IndexPage = ({ data }) => {
@@ -150,6 +201,7 @@ const IndexPage = ({ data }) => {
                 mainpitch={frontmatter.mainpitch}
                 description={frontmatter.description}
                 intro={frontmatter.intro}
+                offers={frontmatter.offers}
             />
         </Layout>
     )
@@ -185,6 +237,15 @@ export const pageQuery = graphql`
                 }
                 description
                 intro {
+                    blurbs {
+                        icon
+                        text
+                        title
+                    }
+                    heading
+                    description
+                }
+                offers {
                     blurbs {
                         icon
                         text

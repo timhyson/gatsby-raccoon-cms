@@ -14,7 +14,7 @@ h1, h2, h3, h4, h5, h6
   font-family: "Raleway", "Helvetica Neue", Arial, sans-serif
 
 hr 
-  border-color: $primary
+  // background-color: $primary !important
   border-width: 3px
   max-width: 50px
   display: block
@@ -100,7 +100,7 @@ footer.footer
   color: $primary
 
 .bg-primary 
-  background-color: $primary
+  background-color: $primary !important
 
 //Menu overrides
 $menu-item-color: $white-ter
@@ -139,6 +139,16 @@ $menu-label-color: $white-ter
 .blog-list-item .featured-thumbnail
   flex-basis: 35%;
   margin: 0 1.5em 0 0;
+
+// case study
+.case-study-item.is-featured
+  background-color: #d6400033;
+.case-study-item header
+  display: flex;
+  margin-bottom: 1em;
+.case-study-item .featured-thumbnail
+  flex-basis: 100%;
+  margin: auto;
 
 
 @import "~bulma"
