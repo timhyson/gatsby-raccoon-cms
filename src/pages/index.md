@@ -46,6 +46,35 @@ intro:
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
+offers:
+  blurbs:
+    - icon: television
+      text: Venue sourcing, site inspections, food tastings, project meetings, risk
+        assessments, managements of timeframes and key milestones with all
+        suppliers, budget, cashflow and contract management.
+      title: Website build and design
+    - icon: bullhorn
+      text: >-
+        We manage and respond to all questions raised via the registration process, manage attendee numbers to minimise cancellation charges, chase responses from late registrations, provide clear and accurate reporting prior to and during the life of the event.
+      title: Team building
+    - icon: music
+      text: We arrange and book flights, ground transportation, airport
+        meet-and-greets, VIP transfers, shuttle services between venues, HSSE
+        regulations with all drivers.
+      title: Entertainment and guest speakers
+    - icon: video-camera
+      text: >
+        We oversee the logistical running of the event ensuring all suppliers
+        deliver their key objectives, manage rooming lists, offsite venues, risk
+        assessments, complete pre-event briefings as well as post event debriefs
+        and onsite budget reconciliations.
+      title: AV/production/event technology
+  heading: What We Offer
+  description: >
+    Kaldi is the ultimate spot for coffee lovers who want to learn about their
+    java’s origin and support the farmers that grew it. We take coffee
+    production, roasting and brewing seriously and we’re glad to pass that
+    knowledge to anyone. This is an edit via identity...
 main:
   heading: Great coffee with no compromises
   description: >

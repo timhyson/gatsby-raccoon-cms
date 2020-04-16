@@ -2,18 +2,26 @@ import React from "react"
 import PropTypes from "prop-types"
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage"
 
-import { FaPencilAlt, FaRegEnvelope, FaPlane, FaRegClock } from "react-icons/fa"
+import { FaBullhorn, FaMusic, FaPencilAlt, FaPlane, FaRegClock, FaRegEnvelope, FaTv, FaVideo } from "react-icons/fa"
 
 const FeatureIcon = (icon) => {
     switch (icon) {
-        case "pencil":
-            return <FaPencilAlt />
-        case "envelope":
-            return <FaRegEnvelope />
-        case "plane":
-            return <FaPlane />
+        case "bullhorn":
+            return <FaBullhorn />
         case "clock":
             return <FaRegClock />
+        case "envelope":
+            return <FaRegEnvelope />
+        case "music":
+            return <FaMusic />
+        case "pencil":
+            return <FaPencilAlt />
+        case "plane":
+            return <FaPlane />
+        case "television":
+            return <FaTv />
+        case "video-camera":
+            return <FaVideo />
         default:
             break
     }
