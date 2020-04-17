@@ -6,7 +6,7 @@ description: CAMMS UK
 featuredpost: false
 featuredimage: /img/camss-3.png
 tags:
-    - event case-study CAMSS
+  - event case-study CAMSS
 ---
 
 ### The Objective
@@ -66,7 +66,7 @@ Bring on Canada!"
 
 ![](/img/camss-1.png)
 
-<hr class="primary">
+<hr class="bg-primary"/>
 
 Ready to start your next project with us? That's great! Give us a call or send us an email and let us inspire you!
 
