@@ -1,0 +1,92 @@
+---
+title: Veritas
+date: 2020-04-17T09:16:33.846Z
+description: Annual Summer Event
+featuredpost: true
+featuredimage: /img/veritas-circus.jpg
+tags:
+  - event case-study veritas
+---
+![]()
+
+## Veritas
+
+Annual Summer Event
+
+We were asked to support VERITAS deliver their annual summer event for 262 adults and children.
+
+Their 'EGG-stravaganza' event earlier in the year had been a huge success and employee expectations were high.
+
+![](/img/veritas-circus.jpg)
+
+### We needed a theme...
+
+We needed a theme, so we started off as we always do, at the end - what is this event designed to achieve? As with most family fun days, it was all about the children, we were looking for something to ensure they had a fantastic day.
+
+![](/img/veritas-elephant.jpg)
+
+![](/img/veritas-games.jpg)
+
+The proposed theme was a Circus event; stilt walkers and jugglers, balloon makers and face painting. A ringmaster, a unicycle and even a tiger, elephant and lion.
+
+![](/img/veritas-lion.jpg)
+
+### ... and plenty of entertainment ...
+
+We brought in circus games for the children including hook a duck, ping pong toss, tin can alley and ring toss as well as an arts and craft station for the toddlers.
+
+![](/img/veritas-hall.jpg)
+
+Toffee apples, candy floss, pic 'n' pix and a hog roast mean that no-one went hungry and when the magic show started, the 177 parents had a welcome break as all 87 children gathered in the big top.
+
+Face painting, balloon making and giveaway goodie bags with circus themed toys meant smiling happy faces and a lasting memory of the day.
+
+![](/img/veritas-kids.jpg)
+
+### ...to create a day to remember
+
+#### 200 juggling balls
+
+Goodie bags with circus themed toys were given to each child as they arrived
+
+![](http://www.theeventsraccoon.co.uk/img/portfolio/cannon-white-128.png)
+
+#### a 6ft giant blue cannon
+
+Circus props were used across the site to tie the theme together
+
+![](http://www.theeventsraccoon.co.uk/img/portfolio/smartphone-white-128.png)
+
+#### veritas branded selfie iphone
+
+Each family had chance to play with the circus props and pose for a crazy family photo to take away
+
+> "The Events Raccoon came in from day one with fresh and creative ideas.\
+> They listened to our brief and used their understanding of our brand to really help raise the bar on our event.\
+> We look forward to working with them again!"
+>
+> Executive Assistant to Vice President Channels\
+> EMEA at Veritas
+
+
+
+> "Thank you both again for a great event!"
+>
+> Executive Assistant to Senior VP\
+> EMEA at Veritas
+
+![](http://www.theeventsraccoon.co.uk/img/portfolio/veritas-team-500.jpg)
+
+Ready to start your next project with us? That's great! Give us a call or send us an email and let us inspire you!
+
+
+
+[+44 7875 769655](tel://447875769655)
+
+
+
+[inspireme@theeventsraccoon.co.uk](mailto:inspireme@theeventsraccoon.co.uk)
+
+* [FACEBOOK](https://facebook.com/TheEventsRaccoon)
+* [TWITTER](https://twitter.com/Events_Raccoon)
+* [LINKEDIN](https://www.linkedin.com/in/rebecca-hyson-34aa1461)
