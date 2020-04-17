@@ -4,11 +4,13 @@ title: CAMSS World
 date: 2016-12-17T15:04:10.000Z
 description: CAMMS UK
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
+featuredimage: /img/camss-3.png
 tags:
   - event case-study CAMSS
 ---
 ### The Objective
+
+<hr className="bg-primary"/>
 
 In February 2018, we were appointed by CAMSS World, an event facilitating company for IT business leaders who deliver events in Canada and the UK, to deliver an end-to-end event management solution for their UK event in May.
 
@@ -16,7 +18,11 @@ From initial conversations with the client, the requirement for additional marke
 
 Due to the nature and level of the attendees expected, professionalism throughout the entire process was key.
 
+![](/img/camss-2.png)
+
 ### How it was done
+
+<hr className="bg-primary"/>
 
 We implemented a 3-month project plan that was to include:
 
@@ -27,9 +33,7 @@ We implemented a 3-month project plan that was to include:
 * **Event Collateral:** Produced signage, pop-up banners and name badges.
 * **Management of Sponsors:** Collated sponsors stand specifications and pre-event communication for the logistical set-up.
 
-<img class="img-responsive img-centered" src="img/portfolio/camss-3.png" alt="">
-
-<h3>The end results</h3>
+### The end results
 
 <hr className="bg-primary"/>
 
@@ -38,6 +42,8 @@ With 100+ delegates and a packed agenda split into panel sessions, roundtable di
 Due to the nature of the venue, the production team was challenged with the set-up of the staging area. Knowing there could be a potential issue with set-up time, we negotiated access to the venue the evening prior, free of charge, which allowed more time for installation.
 
 The event was a huge success and a key piece of feedback from the client was that they were able to spend time with networking with their attendees and not have to worry about the event management throughout the day. They saw the value in our work and as a result, made the decision to extend our contract to deliver their Vancouver event in September, and Toronto in October.
+
+<hr className="bg-primary"/>
 
 <blockquote>
 
@@ -57,27 +63,21 @@ Bring on Canada!"</p>
 
 </blockquote>
 
-<img class="img-responsive img-centered" src="img/portfolio/camss-1.png" alt="">
+
+
+![](/img/camss-1.png)
 
 <hr class="primary">
 
-<p>Ready to start your next project with us? That's great! Give us a call or send us an email and let
+Ready to start your next project with us? That's great! Give us a call or send us an email and let
 
 us inspire you!
-
-</p>
-
-</div>
 
 <div class="col-lg-8 col-lg-offset-2 text-center">
 
 <i class="fa fa-phone fa-3x"></i>
 
-<p>
-
-<a href="tel://447875769655">+44 7875 769655</a>
-
-</p>
+<p><a href="tel://447875769655">+44 7875 769655</a></p>
 
 </div>
 
@@ -85,12 +85,6 @@ us inspire you!
 
 <i class="fa fa-envelope-o fa-3x"></i>
 
-<p>
-
-<a href="mailto:inspireme@theeventsraccoon.co.uk">inspireme@theeventsraccoon.co.uk</a>
-
-</p>
-
-</div>
+<p><a href="mailto:inspireme@theeventsraccoon.co.uk">inspireme@theeventsraccoon.co.uk</a></p>
 
 </div>
