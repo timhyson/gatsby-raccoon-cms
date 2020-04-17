@@ -6,11 +6,12 @@ description: CAMMS UK
 featuredpost: false
 featuredimage: /img/camss-3.png
 tags:
-  - event case-study CAMSS
+    - event case-study CAMSS
 ---
+
 ### The Objective
 
-<hr className="bg-primary"/>
+<hr class="bg-primary"/>
 
 In February 2018, we were appointed by CAMSS World, an event facilitating company for IT business leaders who deliver events in Canada and the UK, to deliver an end-to-end event management solution for their UK event in May.
 
@@ -22,20 +23,20 @@ Due to the nature and level of the attendees expected, professionalism throughou
 
 ### How it was done
 
-<hr className="bg-primary"/>
+<hr class="bg-primary"/>
 
 We implemented a 3-month project plan that was to include:
 
-* **Planning Meetings:** Regular project meetings with the client and strategic partners, providing updates on the event logistics.
-* **Venue Liaison:** The Royal Horseguards had already been contracted, we took over the liaison with the venue, attended site visits and oversaw all event logistics to ensure delegate safety and smooth running of the event.
-* **Delegate Management:** Worked with Capella Marketing on the delegate communications to ascertain registration details.
-* **AV and Production:** Through the support of AV supplier Insight, we implemented an effective technological solution.
-* **Event Collateral:** Produced signage, pop-up banners and name badges.
-* **Management of Sponsors:** Collated sponsors stand specifications and pre-event communication for the logistical set-up.
+-   **Planning Meetings:** Regular project meetings with the client and strategic partners, providing updates on the event logistics.
+-   **Venue Liaison:** The Royal Horseguards had already been contracted, we took over the liaison with the venue, attended site visits and oversaw all event logistics to ensure delegate safety and smooth running of the event.
+-   **Delegate Management:** Worked with Capella Marketing on the delegate communications to ascertain registration details.
+-   **AV and Production:** Through the support of AV supplier Insight, we implemented an effective technological solution.
+-   **Event Collateral:** Produced signage, pop-up banners and name badges.
+-   **Management of Sponsors:** Collated sponsors stand specifications and pre-event communication for the logistical set-up.
 
 ### The end results
 
-<hr className="bg-primary"/>
+<hr class="bg-primary"/>
 
 With 100+ delegates and a packed agenda split into panel sessions, roundtable discussions and boardroom briefings, the ease of movement of delegates between rooms at the venue was crucial. Following various site inspections, we were able to work with the team at The Royal Horseguards, gain an understanding of the logistical requirements to ensure we delivered a seamless event.
 
@@ -43,7 +44,7 @@ Due to the nature of the venue, the production team was challenged with the set-
 
 The event was a huge success and a key piece of feedback from the client was that they were able to spend time with networking with their attendees and not have to worry about the event management throughout the day. They saw the value in our work and as a result, made the decision to extend our contract to deliver their Vancouver event in September, and Toronto in October.
 
-<hr className="bg-primary"/>
+<hr class="bg-primary"/>
 
 <blockquote>
 
@@ -63,15 +64,11 @@ Bring on Canada!"
 
 </blockquote>
 
-
-
 ![](/img/camss-1.png)
 
 <hr class="primary">
 
-Ready to start your next project with us? That's great! Give us a call or send us an email and let
-
-us inspire you!
+Ready to start your next project with us? That's great! Give us a call or send us an email and let us inspire you!
 
 <div class="col-lg-8 col-lg-offset-2 text-center">
 
