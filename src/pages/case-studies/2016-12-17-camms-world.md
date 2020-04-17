@@ -53,7 +53,7 @@ It's crucial that our attendees feel tremendous value when they attend our event
 
 The Events Raccoon team are super detailed, highly professional and have no issue problem solving. We love working with the team so much, that we've extended our contract to take on international events.
 
-Bring on Canada!"</p>
+Bring on Canada!"
 
 <footer>Rob SIMMS<br/>
 
