@@ -70,18 +70,6 @@ Bring on Canada!"
 
 Ready to start your next project with us? That's great! Give us a call or send us an email and let us inspire you!
 
-<div class="col-lg-8 col-lg-offset-2 text-center">
+[+44 7875 769655](tel://447875769655)
 
-<i class="fa fa-phone fa-3x"></i>
-
-<p><a href="tel://447875769655">+44 7875 769655</a></p>
-
-</div>
-
-<div class="col-lg-8 col-lg-offset-2 text-center">
-
-<i class="fa fa-envelope-o fa-3x"></i>
-
-<p><a href="mailto:inspireme@theeventsraccoon.co.uk">inspireme@theeventsraccoon.co.uk</a></p>
-
-</div>
+[inspireme@theeventsraccoon.co.uk](mailto:inspireme@theeventsraccoon.co.uk)
