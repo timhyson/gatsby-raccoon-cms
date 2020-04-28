@@ -13,7 +13,7 @@ Single-origin coffee is coffee grown within a single known geographic origin. So
 
 ### Sustainable farming
 
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows wh
+Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment.
 
 ### Reinvest profits
 
