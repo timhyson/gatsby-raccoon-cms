@@ -17,4 +17,4 @@ Sustainable agriculture is farming in sustainable ways based on an understanding
 
 ### Reinvest
 
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown.
+We want to truly empower the communities that bring coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown.
