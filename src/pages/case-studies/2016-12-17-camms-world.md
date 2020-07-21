@@ -2,7 +2,7 @@
 templateKey: case-study
 title: CAMSS World
 date: 2016-12-17T15:04:10.000Z
-description: CAMMS UK
+description: CAMMS
 featuredpost: false
 featuredimage: /img/camss-3.png
 tags:
