@@ -1,7 +1,7 @@
 ---
 templateKey: about-page
 path: /about
-title: All about us
+title: About
 ---
 ### Shade coffee
 
